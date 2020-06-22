@@ -296,3 +296,11 @@ p{
 ul{
   list-style: none;
 }
+
+.article-to-read {
+  padding: 15px;
+}
+
+.article-link {
+  padding-bottom: 5px;
+}
