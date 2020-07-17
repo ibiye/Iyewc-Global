@@ -316,3 +316,7 @@ ol li{
   display: inline-block;
   padding: 10px;
 }
+.directors-text{
+  font-style: italic;
+  font-weight: bold;
+}
